@@ -2,6 +2,8 @@
 
 This project allows you to hide messages inside media files such as images, audio, and video. It is a part of the **DevClash** event, held by the **Nexus Club**. The goal of this project is to demonstrate the use of steganography for hiding messages within different types of media files.
 
+[live-demo](https://stealthy-communicator.netlify.app/)
+
 ## Supported Media Types
 
 This application supports the following media types for message encoding and decoding:
